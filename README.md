@@ -1,8 +1,26 @@
-## Who Am I?
+## About Me:
 
-I am a game programmer that has a high interest in working with Artificial Intellegence! I am most comfortable working with Unreal Engine but, 
-have a great understanding for Unity as well! My biggest strengths include artificial intellegnce and User interface! I am always looking to learn
-more techniques or skills to use in other projects!
+I am a game programmer that enjoys doing multiple projects in Unreal Engine along with Unity projects! My favorite programming is to do 
+Artificial Intellegence or gameplay mechanics! The latest projec I worked on was a game called Althea. The game is about a sprite traveling
+around the forest collecting gems! The player bloomed flowers when near the flowers.
 
 ## Resume:
-[Resume]https://resume.creddle.io/resume/8svpl5ey98e
+[Resume](https://resume.creddle.io/resume/8svpl5ey98e)
+
+## Projects:
+
+#### Althea
+[Itch.io Page](https://green-production.itch.io/althea)
+
+- A game about a sprite traveling through the forest while collecting gems. The flowers bloom once the player is near the flowers. My main part 
+of the projectwas working with User Interface. I had to make the menus easy to navigate and highlight when hovered by game pad.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Wrath Of Poseidon:
+[Repository](https://github.com/WoodrowCrawford/MinorProduction)
+
+[Itch.io Page](https://sevenseas-production.itch.io/wrath-of-poseidon)
+
+- Old retro arcade survival game with upgrades and waves of enemies! I made the power ups that stop after a certain amount of time used. I also 
+  made the player movement with limits to prevent going off screen! 
