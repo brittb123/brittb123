@@ -28,8 +28,9 @@ of the projectwas working with User Interface. I had to make the menus easy to n
   made the player movement with limits to prevent going off screen! 
  
  ![PosiedonsWrath](https://img.itch.zone/aW1nLzYzNTg2ODcucG5n/original/EzS0nd.png)
- 
-## Github Information: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brittb123&theme=dark)](https://github.com/brittb123/github-readme-stats)
-[![GitHub Languages](https://github-readme-stats.vercel.app/api?username=brittb123&theme=dark)](https://github.com/brittb123/github-readme-stats)
+
+## Proficiencies:
+![Unreal Engine](https://icons.iconarchive.com/icons/th3-prophetman/unreal-tournament-3/48/Unreal-Tournament-III-icon.png) Unreal Engine 4    
+![Unity](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/unity-editor-icon-icon.png) Unity
+
 
