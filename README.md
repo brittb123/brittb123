@@ -6,7 +6,7 @@ around the forest collecting gems! The player bloomed flowers when near the flow
 
 ## Links:
 ![Linkedin](https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png) [Linked In](https://www.linkedin.com/in/britt-boudreaux-9777081ba/)     
-![Resume](https://icons.iconarchive.com/icons/areskub/seize/16/Resume-icon.png)  [Resume](https://resume.creddle.io/resume/8svpl5ey98e)       
+![Resume](https://icons.iconarchive.com/icons/areskub/seize/16/Resume-icon.png)  [Resume](https://github.com/brittb123/brittb123/blob/main/Resume.pdf)       
 
 ## Projects:
 
