@@ -4,8 +4,9 @@ I am a game programmer that enjoys doing multiple projects in Unreal Engine alon
 Artificial Intellegence or gameplay mechanics! The latest projec I worked on was a game called Althea. The game is about a sprite traveling
 around the forest collecting gems! The player bloomed flowers when near the flowers.
 
-## Resume:
-[Resume](https://resume.creddle.io/resume/8svpl5ey98e)
+## Links:
+![Linkedin](https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png) [Linked In](https://www.linkedin.com/in/britt-boudreaux-9777081ba/)     
+![Resume](https://icons.iconarchive.com/icons/areskub/seize/16/Resume-icon.png)  [Resume](https://resume.creddle.io/resume/8svpl5ey98e)       
 
 ## Projects:
 
@@ -14,6 +15,7 @@ around the forest collecting gems! The player bloomed flowers when near the flow
 
 - A game about a sprite traveling through the forest while collecting gems. The flowers bloom once the player is near the flowers. My main part 
 of the projectwas working with User Interface. I had to make the menus easy to navigate and highlight when hovered by game pad.
+![Althea](https://img.itch.zone/aW1hZ2UvMTU1ODUxMy85MTA2MzIyLnBuZw==/original/k3N3xP.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,3 +26,10 @@ of the projectwas working with User Interface. I had to make the menus easy to n
 
 - Old retro arcade survival game with upgrades and waves of enemies! I made the power ups that stop after a certain amount of time used. I also 
   made the player movement with limits to prevent going off screen! 
+ 
+ ![PosiedonsWrath](https://img.itch.zone/aW1nLzYzNTg2ODcucG5n/original/EzS0nd.png)
+ 
+## Github Information: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brittb123&theme=dark)](https://github.com/brittb123/github-readme-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api?username=brittb123&theme=dark)](https://github.com/brittb123/github-readme-stats)
+
